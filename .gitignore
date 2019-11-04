@@ -1,0 +1,5 @@
+# 忽略当前目录下的test.html文件
+test.html
+# 忽略node-modules目录，但不忽略里面的a.js
+/node-modules/*
+!/node-modules/a.js
